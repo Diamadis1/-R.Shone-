@@ -1,4 +1,4 @@
-# Project-4
+# Ανάλυση R.Shone σχετικά με τη δυναμική στη προσφορά και ζήτηση
 equation of differences
 equilibrium point
 cobweb diagram
